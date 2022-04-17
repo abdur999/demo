@@ -11,5 +11,10 @@
   "profile": {
     "name": "typicode"
     "email":"abdursrahim@gmail.com"
+<<<<<<< HEAD
+=======
+    "password":"abdursrahim@gmail.com"
+    "age":"24"
+>>>>>>> f32ed3a (~Fix: Age added)
   }
 }
